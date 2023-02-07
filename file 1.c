@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
    
-   printf"hiii");
+   printf("hiii manav");
    return 0;
 }
